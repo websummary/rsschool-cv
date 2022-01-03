@@ -17,3 +17,13 @@ body {
   align-items: center;
 }
 
+.cont-my-photo {
+  display: flex;
+  width: 200px;
+  height: 200px;
+}
+
+.contacts {
+  display: flex;
+  
+}
