@@ -7,6 +7,17 @@ body {
   width: 600px;
 }
 
+@media (max-width: 550px) {
+  body {
+    font-family: 'Roboto', sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: auto;
+  width: 300px;
+  }
+}
+
 * {
   box-sizing : border-box;
 }
